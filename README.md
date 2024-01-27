@@ -1,4 +1,4 @@
-# AED-I-FINAL
+# AED-I FINAL
 Proyecto para la asignatura **Algortimos y Estructuras de Datos I** <br><br>
 El proyecto se basa en varias fases: <br>
 **1.** Hacer un intérprete de comandos por terminal en c++. <br>
